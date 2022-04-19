@@ -1,0 +1,12 @@
+export const RECEIVE_ADDRESS = 'receive_address' // 接收地址
+export const RECEIVE_CATEGORY = 'receive_category' // 接收食品分类数组
+export const RECEIVE_SHOPS = 'receive_shops' // 接收商家数组
+export const RECEIVE_USERINFO = 'receive_userInfo'
+export const RESET_USERINFO = 'reset_userInfo'
+export const RECEIVE_SHOP_RATING = 'receive_shop_rating'
+export const RECEIVE_SHOP_GOODS = 'receive_shop_goods'
+export const RECEIVE_SHOP_INFO = 'receive_shop_info'
+export const INCREMENT_FOOD_COUNT = 'increment_food_count'
+export const DECREMENT_FOOD_COUNT = 'decrement_food_count'
+export const CLEAR_CART_FOOD = 'clear_cart_food'
+export const RECEIVE_SEARCH_SHOP = 'receive_search_shop'
